@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1-alpha.1",
+  "notes": "Actualizaciones alpha, recorrido inicial y configuración guiada de LM Studio.",
+  "pub_date": "2026-07-21T00:57:27.718Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/pablogcloud/monolith-updates/releases/download/v0.1.1-alpha.1/Monolith-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWE5yZU83SlE2ZzZ6N0lJRXdmelorb0FoU0FsVk1hZjZDdzBZNFl4cFNSOXlFamZ1dHdOUU8vaWVTaU5rT3NTR3pTUGNxRGs3WHZNODVEMXkzdmYzRUw4RDNUbm9iSEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTk1MzM2CWZpbGU6TW9ub2xpdGguYXBwLnRhci5negpINTNMQWgxTks3NjRubWdnY0JGLzUrc0NxLzkrUS8wVDR2bnh5dXpweU1rSEM1YWFZOHVXZ0MrdUUwZ0FlY1NYdXFNeDU5a09YSjF1ejFJNzFtcVNEZz09Cg=="
+    }
+  }
+}
