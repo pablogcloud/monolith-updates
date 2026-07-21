@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2-alpha.2",
-  "notes": "Enables the signed in-app updater from Monolith’s loopback application origin.",
-  "pub_date": "2026-07-21T03:35:30.684Z",
+  "version": "0.1.2-alpha.3",
+  "notes": "End-to-end alpha updater verification release.",
+  "pub_date": "2026-07-21T03:40:12.116Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/pablogcloud/monolith-updates/releases/download/v0.1.2-alpha.2/Monolith-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWE5yZU83SlE2Z3pjMTdoOTJjVmxXMTFsTVA4SE1FaGJDNHdyVjNnMUZRalduTkJrMkJFS1MrMWtWbUJCM1RZcU1EaW9wZ1R0UlMxZVc5TVk2cHI4K0V1dVNrWmsyMkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjA0ODg0CWZpbGU6TW9ub2xpdGguYXBwLnRhci5negpjYmEzV0VWUDRZdUhzenVOZmZLZmJWKzg5elBkeVpMQ0piZVgwZUcvck9SdVcvNm9PMlVTY2s5enYyQkxFZXJjMXB5OVhiek9RWVhhWlFsNW5kaGpDdz09Cg=="
+      "url": "https://github.com/pablogcloud/monolith-updates/releases/download/v0.1.2-alpha.3/Monolith-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWE5yZU83SlE2ZzY2VnZING9OcHp1MktRT2JOcXFtOFhmOVplc0dCbUZCS2VoaDFjMUhuL0FaNVYrek5XVnQ0eUR5b1lNVTBaYUlSVU5HZWtVY3hhT2JJL0lucGR0d3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjA1MTg3CWZpbGU6TW9ub2xpdGguYXBwLnRhci5negpzVGx3QWlkMUVSQ05JcC9ObkxLcjhFRkRjcFpLbjFpckg3NW9ObVlwSWdhajMvQW1PTDJteG5hbHN4QzNvS0VEZEpHZEhrVDNvamo2RUtKTnE3L3hBQT09Cg=="
     }
   }
 }
